@@ -1,11 +1,11 @@
 # #\` FAQ
 
 ## Discussion Rules
-- Do discuss CS, nerdy ideas, or topics related to your life.
+- Discuss CS, nerdy ideas, or topics related to your life.
 - Don't insult people or be a jerk.
-- Do make jokes and be silly.
+- Make jokes and be silly.
 - Don't be spammy or annoying or use crass language excessively.
-- Do build fun and constructive bots that contribute to the channel.
+- Build fun and constructive bots that contribute to the channel.
 - Don't talk about controversial political issues not relevant to your life.
 
 ## Political System
